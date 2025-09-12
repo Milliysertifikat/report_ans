@@ -73055,7 +73055,7 @@ l.a5m(s,B.d.a6(n,0,n.length-2))}return r},
 oJ(a){return this.Rl(a)},
 Rl(a){var s=0,r=A.Q(t.H),q
 var $async$oJ=A.R(function(b,c){if(b===1)return A.N(c,r)
-while(true)switch(s){case 0:q=A.jr("https://t.me/milliy_sertifikat_diagnostik_bot?url="+a,0,null)
+while(true)switch(s){case 0:q=A.jr("https://t.me/milliy_sertifikat_diagnostik_bot?text="+a,0,null)
 s=5
 return A.X(A.ais(q),$async$oJ)
 case 5:s=c?2:4
