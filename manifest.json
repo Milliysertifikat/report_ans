@@ -1,6 +1,6 @@
 {
-    "name": "ms_result",
-    "short_name": "ms_result",
+    "name": "ms_solution",
+    "short_name": "ms_solution",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
