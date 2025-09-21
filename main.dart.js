@@ -58325,7 +58325,7 @@ n=A.c([],s)
 for(k=B.b.gP(l);k.n();){j=k.gG(0)
 n.push(new A.jk(B.yf,new A.zA(new A.YF(j),i,i,i,i,i,i,!1,i,i,A.aca(j,i),i),i))}q.push(new A.zL(1,B.js,A.a9N(n,B.bt),i))}return new A.D4(B.c9,A.a9N(A.c([B.FX,A.alm(q,B.bf,B.h3)],s),B.bt),i)}}
 A.YF.prototype={
-$0(){Telegram.WebApp.sendData("slsn"+this.a)},
+$0(){Telegram.WebApp.sendData("Slsn"+this.a)},
 $S:0}
 A.Vk.prototype={}
 A.a_7.prototype={}
