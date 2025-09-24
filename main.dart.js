@@ -76943,9 +76943,9 @@ A.QC.prototype={
 ar(){var s,r=this
 r.aL()
 s=r.f
-r.r=s.gxl().h(0,"type")
-r.w=s.gxl().h(0,"date")
-r.x=s.gxl().h(0,"report")},
+r.r=s.gxl().h(0,"type_")
+r.w=s.gxl().h(0,"date_")
+r.x=s.gxl().h(0,"report_")},
 L(a){var s,r,q=this,p=null,o=A.uO(12),n=A.fD("Murojaat turi: "+A.o(q.r),p,p,p,A.i3(p,p,p,p,p,p,p,p,p,p,p,p,p,p,B.ch,p,p,!0,p,p,p,p,p,p,p,p),p,p),m=A.fD("Sana: "+A.o(q.w),p,p,p,A.i3(p,p,p,p,p,p,p,p,p,p,p,p,p,p,B.ch,p,p,!0,p,p,p,p,p,p,p,p),p,p),l=q.x
 l.toString
 s=t.E
