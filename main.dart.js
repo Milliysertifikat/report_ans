@@ -76964,7 +76964,7 @@ q=s.gjl().h(0,"cnt")
 o.at=q==null?"":q}catch(p){r=A.aE(p)
 A.Ed("Xatolik "+A.p(r))}},
 L(a){var s,r,q=this,p=null,o=A.uN(12),n=t.E,m=A.b([A.ec("Jami: "+q.at+" ta",p,p,p,A.fF(p,p,p,p,p,p,p,p,p,p,p,p,p,p,B.bH,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.h9,A.ec("Murojaat turi: "+q.y,p,p,p,A.fF(p,p,p,p,p,p,p,p,p,p,p,p,p,p,B.bH,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.h9],n),l=q.Q
-if(l!=="")B.b.S(m,A.b([A.ec("Test tartibi: "+l,p,p,p,A.fF(p,p,p,p,p,p,p,p,p,p,p,p,p,p,B.bH,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.h9],n))
+if(l!==""&&l!=="0")B.b.S(m,A.b([A.ec("Test tartibi: "+l,p,p,p,A.fF(p,p,p,p,p,p,p,p,p,p,p,p,p,p,B.bH,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.h9],n))
 m.push(A.ec("Sana: "+q.as,p,p,p,A.fF(p,p,p,p,p,p,p,p,p,p,p,p,p,p,B.bH,p,p,!0,p,p,p,p,p,p,p,p),p,p))
 m.push(B.M2)
 m.push(B.Rd)
