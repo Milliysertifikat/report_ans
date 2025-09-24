@@ -1,6 +1,6 @@
 {
-    "name": "ms_report",
-    "short_name": "ms_report",
+    "name": "ms_report_ans",
+    "short_name": "ms_report_ans",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
